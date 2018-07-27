@@ -14,3 +14,6 @@ git branch -r | grep -v '\->' | while read remote; do git branch --track "${remo
 git fetch --all
 git pull --all
 ```
+
+Website site: http://fem-node-api.netlify.com/
+Course: http://fem-node-api.netlify.com/
