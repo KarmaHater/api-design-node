@@ -16,4 +16,4 @@ git pull --all
 ```
 
 Website site: http://fem-node-api.netlify.com/
-Course: http://fem-node-api.netlify.com/
+Course: https://app.pluralsight.com/player?course=api-design-nodejs-express-mongo
