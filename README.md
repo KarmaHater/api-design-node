@@ -15,5 +15,10 @@ git fetch --all
 git pull --all
 ```
 
-Website site: http://fem-node-api.netlify.com/
-Course: https://app.pluralsight.com/player?course=api-design-nodejs-express-mongo
++ Website site: http://fem-node-api.netlify.com/
+
++ Course: https://app.pluralsight.com/player?course=api-design-nodejs-express-mongo
++ start mongo `mongod`
+
+```js
+http POST localhost:3000/api/users username=andra
